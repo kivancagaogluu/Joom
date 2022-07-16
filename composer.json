@@ -1,0 +1,18 @@
+{
+    "name": "bluntk/joom",
+    "description": "Joom API V3 PHP Client",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "kivancagaogluu",
+            "email": "kivancagaoglu@outlook.com.tr"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "bluntk\\": "src/"
+        }
+    },
+    "require": {}
+}
