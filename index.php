@@ -36,7 +36,7 @@ $product = [
     'attributes' => [
         ['key' => 'cvd', 'value' => '22']
     ],
-    'mainImage' => 'https://www.bzmoda.com/image/cache/catalog/products/bz4/kn-b-020-st-bagcikli-yuksek-kalin-taban-su-gecirmez-yarim-bilek-erkek-bot-siyah-400x600.jpg',
+    'mainImage' => 'https://example.com/1.jpg',
     'name' => 'Test',
     'sku' => (string) rand(),
     'variants' => [[
@@ -56,7 +56,7 @@ $updateProduct = [
     'attributes' => [
         ['key' => 'cvd', 'value' => '22']
     ],
-    'mainImage' => 'https://www.bzmoda.com/image/cache/catalog/products/bz4/kn-b-020-st-bagcikli-yuksek-kalin-taban-su-gecirmez-yarim-bilek-erkek-bot-siyah-400x600.jpg',
+    'mainImage' => 'https://example.com/1.jpg',
     'name' => 'Testtt',
 //    'sku' => (string) rand(),
 ];
